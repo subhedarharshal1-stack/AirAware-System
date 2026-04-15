@@ -37,6 +37,7 @@ The main goal of this project is to:
 ---
 
 ## 📂 Project Structure
+```
 AirAware-System/
 │
 ├── data/
@@ -51,6 +52,7 @@ AirAware-System/
 │
 ├── requirements.txt
 ├── README.md
+```
 
 ---
 
